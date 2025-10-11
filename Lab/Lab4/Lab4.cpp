@@ -1,25 +1,23 @@
 #include <stdio.h>
 
 int main() {
-    char EmpId[11];  // จำกัดไว้ที่ 10 ตัวอักษร + null terminator
-    int hrs;
-    float rate, salary;
+    char empID[11]; // เก็บรหัสพนักงานไม่เกิน 10 ตัวอักษร + 1 สำหรับ null
+    int hours;
+    double rate, salary;
 
-    printf("Enter Employee ID (max 10 characters): ");
-    scanf("%10s", EmpId);  // จำกัด input ไม่เกิน 10 ตัว
+    printf("Input the Employees ID(Max. 10 chars): \n");
+    scanf("%10s", empID);
 
-    printf("Enter total working hours: ");
-    scanf("%d", &hrs);
+    printf("Input the working hrs: \n");
+    scanf("%d", &hours);
 
-    printf("Enter hourly wage: ");
-    scanf("%f", &rate);
+    printf("Salary amount/hr: \n");
+    scanf("%lf", &rate);
 
-    salary = hrs * rate;
+    salary = hours * rate;
 
-    printf("===========================\n");
-    printf("Employee ID   : %s\n", EmpId);
-    printf("Total Salary  : $%.2f\n", salary);
-    printf("===========================\n");
+    printf("Employees ID = %s\n", empID);
+    printf("Salary = U$ %.2lf\n", salary);
 
     return 0;
 }
