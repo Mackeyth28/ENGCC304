@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="หน้า-1" id="7r4R3Zm2dr1ihseyceCM">
+    <mxGraphModel dx="1042" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-3" target="Hn-5DBGPHfo1Qd3ja_MK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-3" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-4" target="Hn-5DBGPHfo1Qd3ja_MK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-4" value="เตรียมวัตถุดิบ&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ข้าวสวยหุง (ข้าวหุงแล้วเย็น/ค้างคืน) 2-3 ถ้วย&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ใบกระเพรา (ล้าง ผ่าสาย) 1 ถ้วยมือ&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;กระเทียม 6-8 กลีบ (สับ)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;พริกขี้หนู 6-10 เม็ด (สับ/ทุบ)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;หมูกรอบ (สำเร็จ/ทำเอง) ประมาณ 150–200 กรัม → หากทำเองต้องเตรียม (ดูข้อ 2)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;หมูสับเล็กน้อย (ถ้าต้องการเพิ่มเนื้อสัมผัส) — &lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;570&quot; data-start=&quot;557&quot;&gt;ไม่จำเป็น&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ไข่เยี่ยวม้า 2-3 ฟอง (ปอกและหั่น)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ซีอิ๊วขาว / น้ำปลา / ซอสหอยนางรม / น้ำตาล / พริกไทย ตามรสชาติ&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;น้ำมันพืช น้ำมันสำหรับทอด (ถ้ทำหมูกรอบเอง)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ต้นหอม/เครื่องเคียงตามชอบ (แตงกวา มะนาว)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="190" width="425" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-6" target="Hn-5DBGPHfo1Qd3ja_MK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-6" value="เตรียมหมูกรอบ&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เลือกหมูสามชั้น ชั้นหนังหนา → ล้าง ตากให้แห้ง&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ใช้เกลือ/พริกไทย/น้ำส้มสายชูถูหนังเพื่อช่วยให้กรอบ (ตามสูตรที่ใช้)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;อบ/ต้ม/ตาก/ผึ่งให้หนังแห้ง → ทอดในน้ำมันร้อนจนหนังพอง/กรอบ → พักให้สะเด็ดน้ำมัน → หั่นชิ้นพอดีคำ&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-8" target="Hn-5DBGPHfo1Qd3ja_MK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-8" value="เตรียมอุปกรณ์&lt;div&gt;ครัว&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;กระทะ (wok หรือ non-stick) 1 ใบ&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;หม้อสำหรับหุงข้าว (ถ้าต้องการหุงใหม่)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เขียง มีด ช้อนตวง ทัพพี ตะหลิว ถ้วยผสม&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;กระทะสำหรับทอด (ถ้าทอดหมูเอง)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;จาน/ชามสำหรับวางวัตถุดิบเตรียมไว้&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="680" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-11" target="Hn-5DBGPHfo1Qd3ja_MK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-11" target="Hn-5DBGPHfo1Qd3ja_MK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-11" value="ตรวจสอบข้าว&lt;div&gt;ข้าวร่วน/แห้งพอหรือยัง?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="850" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-13" target="Hn-5DBGPHfo1Qd3ja_MK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-13" value="ตั้งเตา/ความร้อน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-14" target="Hn-5DBGPHfo1Qd3ja_MK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-14" value="คลุกข้าวให้แห้งด้วยส้อม / แผ่ข้าว พักให้เย็น / ใช้ข้าวค้างคืน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1020" width="157.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-16" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="988" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-19" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="988" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-20" target="Hn-5DBGPHfo1Qd3ja_MK-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-20" value="ผัดกระเทียม-พริก" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-22" target="Hn-5DBGPHfo1Qd3ja_MK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-22" value="ใส่หมูกรอบหรือเนื้อ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-24" target="Hn-5DBGPHfo1Qd3ja_MK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-24" value="ใส่ข้าวลงผัด" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-26" target="Hn-5DBGPHfo1Qd3ja_MK-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-26" value="ปรุงรส" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-28" target="Hn-5DBGPHfo1Qd3ja_MK-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-28" value="เติมใบกระเพรา" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-30" target="Hn-5DBGPHfo1Qd3ja_MK-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-30" value="เตรียมไข่เยี่ยวม้า" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hn-5DBGPHfo1Qd3ja_MK-32" target="Hn-5DBGPHfo1Qd3ja_MK-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-32" value="จัดจานและเสิร์ฟ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn-5DBGPHfo1Qd3ja_MK-34" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2060" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
