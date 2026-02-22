@@ -91,3 +91,9 @@ while($row = mysqli_fetch_assoc($result)){
 
 sudo mkdir /var/www/html/uploads
 sudo chmod 777 /var/www/html/uploads
+
+
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';
+FLUSH PRIVILEGES;
+EXIT;
