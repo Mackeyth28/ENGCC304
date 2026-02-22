@@ -97,3 +97,97 @@ sudo chmod 777 /var/www/html/uploads
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';
 FLUSH PRIVILEGES;
 EXIT;
+
+
+<?php
+$conn = mysqli_connect("localhost","root","","max_shop");
+
+// ลบสินค้า
+if(isset($_GET['delete'])){
+$id = $_GET['delete'];
+mysqli_query($conn,"DELETE FROM products WHERE id=$id");
+header("Location:index.php");
+}
+
+// เพิ่มสินค้า
+if(isset($_POST['add_product'])){
+
+$name = $_POST['name'];
+$price = $_POST['price'];
+$detail = $_POST['detail'];
+
+$image = $_FILES['image']['name'];
+$tmp = $_FILES['image']['tmp_name'];
+
+move_uploaded_file($tmp,"uploads/".$image);
+
+mysqli_query($conn,"INSERT INTO products(name,price,detail,image)
+VALUES('$name','$price','$detail','$image')");
+}
+?>
+
+<h2>ระบบจัดการสินค้า</h2>
+
+<form method="POST" enctype="multipart/form-data">
+
+ชื่อสินค้า<br>
+<input type="text" name="name"><br><br>
+
+ราคา<br>
+<input type="text" name="price"><br><br>
+
+รายละเอียด<br>
+<textarea name="detail"></textarea><br><br>
+
+รูปสินค้า<br>
+<input type="file" name="image"><br><br>
+
+<button name="add_product">เพิ่มสินค้า</button>
+
+</form>
+
+<hr>
+
+<h2>รายการสินค้า</h2>
+
+<table border="1">
+
+<tr>
+<th>ID</th>
+<th>ชื่อสินค้า</th>
+<th>ราคา</th>
+<th>รายละเอียด</th>
+<th>รูป</th>
+<th>ลบ</th>
+</tr>
+
+<?php
+
+$result = mysqli_query($conn,"SELECT * FROM products");
+
+while($row = mysqli_fetch_assoc($result)){
+?>
+
+<tr>
+
+<td><?php echo $row['id']; ?></td>
+
+<td><?php echo $row['name']; ?></td>
+
+<td><?php echo $row['price']; ?></td>
+
+<td><?php echo $row['detail']; ?></td>
+
+<td>
+<img src="uploads/<?php echo $row['image']; ?>" width="120">
+</td>
+
+<td>
+<a href="?delete=<?php echo $row['id']; ?>">ลบ</a>
+</td>
+
+</tr>
+
+<?php } ?>
+
+</table>
