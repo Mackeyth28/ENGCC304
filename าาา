@@ -191,3 +191,21 @@ while($row = mysqli_fetch_assoc($result)){
 <?php } ?>
 
 </table>
+
+
+
+
+
+
+
+
+<VirtualHost *:80>
+    ServerAdmin webmaster@localhost
+    ServerName thapakorn.local
+    DocumentRoot /var/www/html/thapakorn
+
+    <Directory /var/www/html/thapakorn>
+        AllowOverride All
+        Require all granted
+    </Directory>
+</VirtualHost>
